@@ -1,0 +1,7 @@
+print("thIS is a test file.")
+print("This file is used to test the git commit command.")
+print("This is the third line of the file.")
+print("This is the fourth line of the file.")
+print("This is the fifth line of the file.")
+print("This is the sixth line of the file.")
+print("Money na water, e no get enemy.")
